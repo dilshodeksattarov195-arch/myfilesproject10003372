@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsrocess",
+        "uuid": 9222420,
+        "checksum": "glf2ug"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
